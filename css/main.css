@@ -26,6 +26,11 @@ h1, p {
   color: #000;
 }
 
+p {
+  margin: 0;
+  padding-bottom: 2rem;
+}
+
 .content a {
   color: #e2e2e2;
   font-weight: normal;
