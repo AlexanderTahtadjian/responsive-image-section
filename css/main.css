@@ -19,6 +19,7 @@ html {
 
 section {
   background-color: #e2e2e2;
+  padding: 1rem;
 }
 
 h1, p {
@@ -44,4 +45,5 @@ h1, p {
 
 img {
   padding-top: 2rem;
+  padding-bottom: 2rem;
 }
