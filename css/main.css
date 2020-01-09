@@ -36,3 +36,12 @@ h1, p {
   white-space: nowrap;
   background-color: #555;
 }
+
+.img-flex {
+  width: 100%;
+  display: block;
+}
+
+img {
+  padding-top: 2rem;
+}
