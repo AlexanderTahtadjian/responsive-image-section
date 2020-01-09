@@ -17,7 +17,22 @@ html {
   box-sizing: inherit;
 }
 
-.content {
-  padding: 2rem;
+section {
   background-color: #e2e2e2;
+}
+
+h1, p {
+  color: #000;
+}
+
+.content a {
+  color: #e2e2e2;
+  font-weight: normal;
+  text-decoration: none;
+  text-align: left;
+  font-size: 1.125rem;
+  padding: 0.5em 0.75em;
+  border-radius: 4px;
+  white-space: nowrap;
+  background-color: #555;
 }
