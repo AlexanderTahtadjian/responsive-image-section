@@ -19,16 +19,17 @@ html {
 
 section {
   background-color: #e2e2e2;
-  padding: 1rem;
+  padding: 2rem 0;
 }
 
 h1, p {
   color: #000;
+  margin: 0 0 1.3rem;
 }
 
 p {
   margin: 0;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
 }
 
 .content, .photo {
