@@ -36,6 +36,10 @@ p {
   padding: 1rem;
 }
 
+body {
+  margin: 0;
+}
+
 .card {
   max-width: 50em;
   display: flex;
@@ -44,25 +48,25 @@ p {
   align-items: center;
 }
 
-.content a {
-  color: #e2e2e2;
+a {
+  color: #fff;
   font-weight: normal;
   text-decoration: none;
   text-align: left;
+  display: inline-block;
   font-size: 1.125rem;
-  padding: 0.5em 0.75em;
+  padding: .5em .75em;
   border-radius: 4px;
   background-color: #555;
+}
+
+a:hover {
+  background-color: #000;
 }
 
 .img-flex {
   width: 100%;
   display: block;
-}
-
-img {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
 }
 
 @media only screen and (min-width: 25em) {
